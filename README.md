@@ -3,7 +3,7 @@ An easy way to perform background processing in go. Open and free.  [Go Shoot Da
 
 ## Getting Started
 
-These instructions will give you a copy of the go-shoot and instructions on how to integrate into your projects.
+These instructions will get you a copy of go-shoot and instruct on integrating into your projects.
 
 ### Installation
 
