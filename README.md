@@ -1,10 +1,6 @@
 # About Go Shoot
 An easy way to perform background processing in go. Open and free.  [Go Shoot Dashboard](https://github.com/ssubedir/go-shoot-dashboard)
 
-## Getting Started
-
-These instructions will get you a copy of go-shoot and instruct on integrating into your projects.
-
 ### Installation
 
 Install go-shoot using ```go get```
